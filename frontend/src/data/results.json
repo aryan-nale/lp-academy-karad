@@ -1,0 +1,89 @@
+{
+  "notice": "Results as published by LP Academy [CONFIRM: student consent]",
+  "neet2026": {
+    "topper": {
+      "name": "Swarali Patil",
+      "score": "608/720",
+      "biologyScore": "355/360"
+    },
+    "students": [
+      { "name": "Swarali Patil", "score": "608/720", "notes": "Topper, Biology 355/360" },
+      { "name": "Shubham Jagtap", "score": "580/720" },
+      { "name": "Gaurav Bhosale", "score": "564/720" },
+      { "name": "Priyanka Umardand", "score": "564/720" },
+      { "name": "Shivkumar Mane", "score": "561/720" },
+      { "name": "Aditya Patil", "score": "553/720" },
+      { "name": "Revati Bhosale", "score": "542/720" },
+      { "name": "Revati Jadhav", "score": "540/720" },
+      { "name": "Bhakti Bhoite", "score": "526/720" },
+      { "name": "Ananya Deshmukhe", "score": "523/720" },
+      { "name": "Yogesh Ingole", "score": "518/720" }
+    ]
+  },
+  "jeeAdvanced2026": {
+    "title": "Star Achievers of LP",
+    "note": "[CONFIRM: a fourth poster entry, rank 2958, was a duplicate error and is left out]",
+    "students": [
+      { "name": "Sanjana Dhas", "air": "2068" },
+      { "name": "Rahul Godase", "air": "2898" },
+      { "name": "Sayali Lendave", "air": "26717" }
+    ]
+  },
+  "mhtCet2025": {
+    "region": "Satara District",
+    "note": "[CONFIRM: spellings of Akshay Gutar, Thakur Rajage, Pahadkar Pranav, Bhosale Kirtiwant, Aditya Chavan]",
+    "percentile99_99": [
+      { "name": "Sahil Lade", "percentile": "99.99" },
+      { "name": "Manasi Falake", "percentile": "99.99" }
+    ],
+    "percentile99_95": [
+      { "name": "Kadam Shreyash", "percentile": "99.95" }
+    ],
+    "percentile99Plus": [
+      { "name": "Pathan Aafan", "percentile": "99.87" },
+      { "name": "Akshay Gutar", "percentile": "99.76" },
+      { "name": "Thakur Rajage", "percentile": "99.66" },
+      { "name": "Pahadkar Pranav", "percentile": "99.35" },
+      { "name": "Chougule Uma", "percentile": "99.14" },
+      { "name": "Atharv Jadhav", "percentile": "99.14" },
+      { "name": "Aaman Diwan", "percentile": "99.04" }
+    ],
+    "percentile98Plus": [
+      { "name": "Tawar Sakshi", "percentile": "98.98" },
+      { "name": "Bhosale Kirtiwant", "percentile": "98.98" },
+      { "name": "Chavan Vedant", "percentile": "98.91" },
+      { "name": "Dharme Monika", "percentile": "98.78" },
+      { "name": "Sanjana Dhas", "percentile": "98.66" },
+      { "name": "Abhimanyu Ghadage", "percentile": "98.57" },
+      { "name": "Shraddha Chavan", "percentile": "98.50" },
+      { "name": "Suyash Mohite", "percentile": "98.47" },
+      { "name": "Jadhav Yash", "percentile": "98.36" },
+      { "name": "Aditya Chavan", "percentile": "98.29" },
+      { "name": "Patil Jagruti", "percentile": "98.26" },
+      { "name": "Patil Tanmay", "percentile": "98.19" },
+      { "name": "Gayatri Sawant", "percentile": "98.19" },
+      { "name": "Bhosale Prithviraj", "percentile": "98.17" },
+      { "name": "Chougule Shivam", "percentile": "98.01" },
+      { "name": "Patil Rohan", "percentile": "98.00" }
+    ]
+  },
+  "neet2025Cap2MbbsAllotments": {
+    "title": "NEET 2025 CAP-II MBBS allotments",
+    "note": "[CONFIRM: partially obscured entries]",
+    "allotments": [
+      { "name": "Amruta Khatake", "allottedCollege": "GSMC Mumbai" },
+      { "name": "Ashish Gavade", "allottedCollege": "BJMC Pune" },
+      { "name": "Gauri Godase", "allottedCollege": "GMC Mumbai" },
+      { "name": "Navanath Bajbale", "allottedCollege": "Tilak MC Mumbai" },
+      { "name": "Viraj Kalolikar", "allottedCollege": "VM MC Solapur" },
+      { "name": "Pradnya Gole", "allottedCollege": "GMC Miraj" },
+      { "name": "Anagha Pimpare", "allottedCollege": "GMC Ratnagiri" },
+      { "name": "Anjali Kumbhar", "allottedCollege": "GMC Ambarnath" },
+      { "name": "Suraj Kale", "allottedCollege": "GMC Alibaug" },
+      { "name": "Anushka Khilare", "allottedCollege": "GMC Ratnagiri" },
+      { "name": "Janhavi Ghodake", "allottedCollege": "GMC Ratnagiri" },
+      { "name": "Sayali Thorat", "allottedCollege": "Ashwini MC Solapur" },
+      { "name": "Nikita Pisal", "allottedCollege": "Walawalkar MC Ratnagiri" }
+    ]
+  }
+}

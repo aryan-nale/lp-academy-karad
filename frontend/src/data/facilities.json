@@ -1,0 +1,32 @@
+[
+  {
+    "id": "classrooms",
+    "title": "Classrooms",
+    "description": "Spacious, well-ventilated, and acoustically treated classrooms equipped for focused learning and interactive teaching. [CONFIRM: exact seating capacity and count]"
+  },
+  {
+    "id": "test-series",
+    "title": "Test Series",
+    "description": "Regular chapter-wise, cumulative, and full-syllabus mock tests for Maharashtra State Board, JEE, MHT-CET, and NEET. [CONFIRM: test schedule details]"
+  },
+  {
+    "id": "doubt-solving",
+    "title": "Doubt Solving",
+    "description": "Daily one-on-one doubt clarification sessions with subject teachers to ensure no student lags behind in conceptual clarity. [CONFIRM: daily timings]"
+  },
+  {
+    "id": "study-material",
+    "title": "Study Material",
+    "description": "Curated theory notes, question banks, previous years' papers, and formula summaries aligned with State Board and entrance syllabi. [CONFIRM: publication details]"
+  },
+  {
+    "id": "boys-hostel",
+    "title": "Boys Hostel (11th-12th only)",
+    "description": "Hostel facility for boys — 11th-12th students only. Fee: Rs 70,000 per year. [CONFIRM: food included?] [CONFIRM: room sharing and warden details]"
+  },
+  {
+    "id": "girls-hostel",
+    "title": "Girls Hostel (11th-12th only)",
+    "description": "Separate hostel facility for girls — 11th-12th students only. Fee: Rs 70,000 per year. [CONFIRM: food included?] [CONFIRM: security and amenities]"
+  }
+]

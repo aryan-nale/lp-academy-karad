@@ -1,0 +1,52 @@
+[
+  {
+    "id": "foundation-8-10",
+    "name": "Foundation",
+    "targetClasses": "8th to 10th",
+    "board": "Maharashtra State Board",
+    "subjects": ["Mathematics", "Science"],
+    "description": "Maths and Science with strong basics and exam preparation.",
+    "feePerYear": 40000,
+    "feeFormatted": "Rs 40,000 per year"
+  },
+  {
+    "id": "jee-11-12",
+    "name": "JEE (Main & Advanced)",
+    "targetClasses": "11th and 12th",
+    "board": "Maharashtra State Board",
+    "subjects": ["Physics", "Chemistry", "Mathematics"],
+    "description": "Comprehensive Physics, Chemistry, and Mathematics coaching aligned with Maharashtra State Board and JEE syllabus.",
+    "feePerYear": 80000,
+    "feeFormatted": "Rs 80,000 per year"
+  },
+  {
+    "id": "mht-cet-11-12",
+    "name": "MHT-CET",
+    "targetClasses": "11th and 12th",
+    "board": "Maharashtra State Board",
+    "subjects": ["PCM", "PCB"],
+    "description": "PCM and PCB tracks, aligned with Maharashtra State Board syllabus for top percentiles in state engineering and pharmacy entrances.",
+    "feePerYear": 80000,
+    "feeFormatted": "Rs 80,000 per year"
+  },
+  {
+    "id": "neet-11-12",
+    "name": "NEET",
+    "targetClasses": "11th and 12th",
+    "board": "Maharashtra State Board",
+    "subjects": ["Physics", "Chemistry", "Biology"],
+    "description": "Physics, Chemistry, and Biology coaching focused on conceptual understanding for medical college admission.",
+    "feePerYear": 80000,
+    "feeFormatted": "Rs 80,000 per year"
+  },
+  {
+    "id": "hostel-facility",
+    "name": "Hostel (Boys and Girls separate)",
+    "targetClasses": "11th and 12th only",
+    "board": "N/A",
+    "subjects": [],
+    "description": "Separate secure hostel facility for 11th and 12th standard boys and girls.",
+    "feePerYear": 70000,
+    "feeFormatted": "Rs 70,000 [CONFIRM: food included?]"
+  }
+]

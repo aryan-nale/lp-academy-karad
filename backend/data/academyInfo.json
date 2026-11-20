@@ -1,0 +1,38 @@
+{
+  "name": "LP Academy",
+  "fullName": "Ligade-Patil Junior College of Science",
+  "tagline": "Build Foundations. Crack Entrances.",
+  "location": "Karad, Dist. Satara",
+  "board": "Maharashtra State Board only",
+  "contact": {
+    "phone": "+918975756530",
+    "whatsapp": "https://wa.me/918975756530",
+    "callAndWhatsApp": "8975756530",
+    "email": "[CONFIRM: email]",
+    "socialLinks": "[CONFIRM: social links]"
+  },
+  "addresses": [
+    "Behind JK Petrol Pump, Karad",
+    "Vidyanagar, Karad, Dist. Satara 415 124"
+  ],
+  "leadership": [
+    {
+      "name": "Prof. Bajirao Patil",
+      "designation": "Chairman",
+      "qualifications": ["Mechanical Engineer", "Physics Teacher"],
+      "bio": "Mechanical Engineer and dedicated Physics teacher focused on building foundational clarity for entrance aspirants."
+    },
+    {
+      "name": "Prof. Vijay Ligade",
+      "designation": "Vice Chairman",
+      "qualifications": ["Mechanical Engineer", "Physics Teacher"],
+      "bio": "Mechanical Engineer and dedicated Physics teacher specializing in analytical problem-solving for JEE and NEET."
+    },
+    {
+      "name": "[CONFIRM: faculty name]",
+      "designation": "[CONFIRM: designation]",
+      "qualifications": ["[CONFIRM: subject]", "[CONFIRM: qualification]"],
+      "bio": "[CONFIRM: faculty bio and background]"
+    }
+  ]
+}
